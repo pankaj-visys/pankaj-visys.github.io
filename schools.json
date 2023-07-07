@@ -1,0 +1,82 @@
+[
+    {
+        "city": "LUC",
+        "schools": [
+            {
+                "Name":"LMC",
+                "Grades":["6", "7", "8", "9"]
+            },
+            
+            {
+                "Name":"SFC",
+                "Grades":["1", "2", "3", "4"]
+            },
+    
+            {
+                "Name":"CMS",
+                "Grades":["Mont", "Nur", "KG", "1", "2"]
+            }
+        ]
+    },
+
+    {
+        "city": "DEL",
+        "schools": [
+            {
+                "Name":"MODERN",
+                "Grades":["1", "2", "3", "4","5","6","7","8","9"]
+            },
+            
+            {
+                "Name":"AirForce",
+                "Grades":["Mont", "Nur", "KG","1", "2", "3", "4"]
+            },
+    
+            {
+                "Name":"American",
+                "Grades":["Mont", "Nur", "KG", "3", "4"]
+            }
+        ]
+    },
+
+    {
+        "city": "NOI",
+        "schools": [
+            {
+                "Name":"DPS",
+                "Grades":["DPS","1", "2", "3", "4"]
+            },
+            
+            {
+                "Name":"Bal",
+                "Grades":["Bal","1", "2", "3", "4"]
+            },
+
+            {
+                "Name":"King",
+                "Grades":["King","1", "2", "3", "4"]
+            }
+        ]
+    },
+
+    {
+        "city": "KNP",
+        "schools": [
+            {
+                "Name":"Virendra",
+                "Grades":["DPS","1", "2", "3", "4"]
+            },
+            
+            {
+                "Name":"Jaipuria",
+                "Grades":["Bal","1", "2", "3", "4"]
+            },
+    
+            {
+                "Name":"KVIIT",
+                "Grades":["King","1", "2", "3", "4"]
+            }
+        ]
+    }
+
+]
